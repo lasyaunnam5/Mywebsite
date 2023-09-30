@@ -1,0 +1,14 @@
+/* Apply styles to the button with the "myButton" ID */
+#myButton {
+    background-color: #34db5e; /* Background color */
+    color: #e03e25; /* Text color */
+    padding: 10px 20px; /* Padding (top/bottom, left/right) */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Add a pointer cursor on hover */
+}
+
+/* Style the button on hover */
+#myButton:hover {
+    background-color: #820e4c; /* New background color on hover */
+}
